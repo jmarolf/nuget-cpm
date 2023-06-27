@@ -1,0 +1,1 @@
+dotnet add src\nuget-cpm\nuget-cpm.csproj package Newtonsoft.Json --version 13.0.1
